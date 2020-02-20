@@ -6,7 +6,7 @@
 Xcode 11.3.1 にて動作確認済み。
 
 ## Demo
-![demo](https://github.com/hk2ndwalker/iOS/SwiftUI/FontListView/doc/fontlistview.gif?raw=true)
+![demo](https://github.com/hk2ndwalker/iOS/blob/master/SwiftUI/FontListView/doc/fontlistview.gif)
 
 ## Usage
 プロジェクトに組み込むなり、コードをコピペするなりしてお使いください。
