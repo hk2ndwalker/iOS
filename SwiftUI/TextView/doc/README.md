@@ -1,10 +1,11 @@
 # TextView.swift
 ## Overview
 UITextViewに以下4つの機能を加えたPlaceholderTextViewと、それをSwiftUIのView階層に載せられるようにUIViewRepresentableを実装したTextViewです。
-・Placeholderが付いている
-・独自ボタンが乗ったInputAccessoryView
-・ハードウェアキーボードが接続された場合のInputAccessoryViewのSafe Area考慮
-・TextViewから変更と終了のイベントを受けられる
+
+* Placeholderが付いている
+* 独自ボタンが乗ったInputAccessoryView
+* ハードウェアキーボードが接続された場合のInputAccessoryViewのSafe Area考慮
+* TextViewから変更と終了のイベントを受けられる
 
 Xcode 11.4.1 にて動作確認済み。
 
